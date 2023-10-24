@@ -1,105 +1,36 @@
-# Googledrivetool
-A google drive tool(wip)
-Copyright can be defined as the right to copy something. It gives an author control over who can use or reproduce his or her creative work. Do not confuse owning a copy of a work with the right to make a copy of that work.
+Dear Mojang, before taking this down please read below. This webiste falls under fair use. This website makes literally no money and is per educational purposes only. It has no mal intemt and has not caused you to lose money. Please see fit in letting this live.
 
-Copyright is automatic. As soon as you create something, you own the copyright and have legal control over how it's used, regardless of whether a copyright notice is displayed or not.
+**FAIR USE**
+Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
 
-Things that fall under copyright include:Copyright Symbol
-Literary works.
-Sound recordings, musical works and lyrics.
-Dramatic works and motion pictures.
-Pictorial, graphic, and sculptural works.
-Things that do not fall under copyright include:
-Common knowledge.
-Ideas, concepts, procedures, and discoveries.
-Data, ingredients, lists, calendars, and rulers.
-Government publications.
-Titles, logos, slogans, etc. (These may be registered under trademark law.)
-Works that are out of copyright.
-Copyright protects a creator's ability to:
-Reproduce a work
-Distribute copies
-Create derivatives of a work
-Perform or display a work publically
-U.S. Copyright Office
-Information and resources on copyright law in the United States
-What is Public Domain?
-Public domain works are those which can usually be copied and used without permission from the owner. Copyright generally expires after a certain period of time, which means that most titles before that time are in the public domain.
+Fair use is a use permitted by copyright statute that might otherwise be infringing.
 
-Works generally fall into public domain:
+Non-profit, educational or personal use tips the balance in favor of fair use.
 
-95 years after publication (if published before 1977)
-70 years after the creator has died (if published after 1977)
-95 years after publication or 120 years from creation if owned by a corporation (e.g. Disney), whichever comes first.
-Please note that this is a general guideline. Copyright can be renewed and foreign works have different sets of copyright rules, so be sure to research each work carefully before assuming it is in the public domain.
+FAIR USE DEFINITION:
+(Source: http://en.wikipedia.org/wiki/Fair_use)
 
-What is Fair Use?
-Fair Use is part of copyright law (Section 107) that determines the extent to which you may use or distribute a copyrighted work without requesting specific permission.
+Fair use is a doctrine in the United States copyright law that allows limited use of copyrighted material without requiring permission from the rights holders, such as for commentary, criticism, news reporting, research, teaching or scholarship.  It provides for the legal, non-licensed citation or incorporation of copyrighted material in another author’s work under a four-factor balancing test.  The term “fair use” originated in the United States.  A similar principle, fair dealing, exists in some other common law jurisdictions.  Civil law jurisdictions have other limitations and exceptions to copyright.
 
-Fair use generally permits parts of a work to be used in the following examples:
+U.S. COPYRIGHT OFFICE- FAIR USE DEFINITION
+(Source: http://www.copyright.gov/fls/fl102.html)
 
-Criticism or commentary
-Parodies
-Educational use to illustrate a lesson
-Many instructors incorrectly assume this final bullet means that copyright does not apply to the classroom at all. Copyright law can be vague on what constitutes fair use, but it has established four factors as a basic rubric to judge.
+One of the rights accorded to the owner of copyright is the right to reproduce or to authorize others to reproduce the work in copies or phonorecords.  This right is subject to certain limitations found in sections 107 through 118 of the copyright law (title 17, U.S. Code).  One of the more important limitations is the doctrine of “fair use”.  The doctrine of fair use has developed through a substantial number of court decisions over the years and has been codified in section 107 of the copyright law.
 
-Four Factors of Fair Use
-Do not assume that citing a source or using it for educational purposes puts it under fair use. Copyright law is flexible, but four factors are weighed to determine whether copying material applies to fair use.
+Section 107 contains a list of the various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research.  Section 107 also sets out in four factors to be considered in determining whether or not a particular use is fair: 
 
-1. Purpose of the Use
-Fair use is more likely to apply if the reason for its use is:
+The purpose and character of the use, including whether such use is of commercial nature or is for nonprofit educational purposes <----- which GoogleDrivetool makes no money it is purely for educational purposes
+The nature of the copyrighted work
+The amount and substantiality of the portion used in relation to the copyrighted work as a whole
+The effect of the use upon the potential market for, or value of, the copyrighted work
+The distinction between fair use and infringement may be unclear and not easily defined. There is no specific number of words, lines, or notes that may safely be taken without permission. Acknowledging the source of the copyrighted material does not substitute for obtaining permission.
 
-Noncommercial or nonprofit
-Educational (teaching, scholarship, or research)
-Commentary, criticism, parody, or news reporting
-Preservation (e.g. storing a digital copy)
-Transformative works (e.g. creating something new, with a different purpose from the original)
-2. Nature of Original Work Used
-Fair use is more likely to apply if the work being used is:
+The 1961 Report of the Register of Copyrights on the General Revision of the U.S. Copyright Law cites examples of activities that courts have regarded as fair use: “quotation of excerpts in a review or criticism for purposes of illustration or comment; quotation of short passages in a scholarly or technical work, for illustration or clarification of the author’s observations; use in a parody of some of the content of the work parodied; summary of an address or article, with brief quotations, in a news report; reproduction by a library of a portion of a work to replace part of a damaged copy; reproduction by a teacher or student of a small part of a work to illustrate a lesson; reproduction of a work in legislative or judicial proceedings or reports; incidental and fortuitous reproduction, in a newsreel or broadcast, of a work located in the scene of an event being reported.”
 
-Purely factual, nonfiction, or educational
-Published
-Not a consumable product (e.g. standardized tests, workbooks)
-3. Amount of Original Work Used
-Fair use is more likely to apply if you use:
+Copyright protects the particular way an author has expressed himself. It does not extend to any ideas, systems, or factual information conveyed in the work.
 
-a smaller portion of the work (e.g. no more than 1 chapter, 1 article, or 10% of the work, as a rule of thumb)
-a part of the work that does not define the work as creatively unique (e.g. not the "heart" of the work)
-4. Effect on the Market of the Original Work
-Fair use is more likely to apply if you:
+The safest course is always to get permission from the copyright owner before using copyrighted material. The Copyright Office cannot give this permission.
 
-can prove you have not deprived the owner of any income
-copy a portion of out-of-print text or other work that no longer makes money from sold copies
-Fair Use Examples
-Keep in mind that every situation is different, so what may be permitted in one situation may not be acceptable in every situation. When in doubt, ask for permission.
+When it is impracticable to obtain permission, use of copyrighted material should be avoided unless the doctrine of fair use would clearly apply to the situation. The Copyright Office can neither determine if a certain use may be considered fair nor advise on possible copyright violations. If there is any doubt, it is advisable to consult an attorney.
 
-Fair Use vs Copyright Infringement
-May be Fair Use:	May be Copyright Infringement:
-Copying a few pages out of a textbook.	Copying every chapter you need from the textbook.
-Copying a chapter out of a large book.	Copying an entire short story.
-Copying a single article from a journal.	Copying several articles from the same journal.
-Photocopying a few pages of a book for a student.	Photocopying a few pages of a book for the entire class.
-Posting a link to information on Canvas.	Copying and pasting information from another site to Canvas.
-Showing a film in a face-to-face class.	Uploading a film to your course site.
-Copyright & Fair Use Resources
-Copyright & Fair Use Websites
-For more detailed information on copyright, fair use, and Creative Commons, check out the resources below.
-
-Stanford Copyright & Fair Use Center
-Includes overviews about copyright and fair use as well as news and resources.
-Cornell Copyright Information: Public Domain
-Breaks down the terms of copyright and at what point works enter the public domain.
-Fair Use Evaluation Tools
-It may be helpful to use evaluation tools when walking through the process of determining fair use.
-
-Digital Image Rights Computator
-Answer questions to determine whether copying an image falls under fair use guidelines for your situation.
-Fair Use Evaluator
-Walks you through evaluating the fairness of copying a resource and provides a PDF of your results.
-Cerro Coso Resources
-The Cerro Coso library has created a brief copyright handout for students and faculty. This is not comprehensive, but serves as an introduction.
-
-Copyright for Students
-Handout for students that explores copyright and fair use using examples.
-Copyright for Instructors
-Handout for instructors that explores copyright and fair use using examples.
+FL-102, Revised September 2010
