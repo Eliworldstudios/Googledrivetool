@@ -1,4 +1,4 @@
-Dear Mojang, before taking this down please read below. This webiste falls under fair use. This website makes literally no money and is per educational purposes only. It has no mal intemt and has not caused you to lose money. Please see fit in letting this live.
+Dear Mojang, before taking this down please read below. This webiste falls under fair use. This website makes literally no money and is per educational purposes only. It has no maliccous intent and has not caused you to lose money. Please see fit in letting this live.
 
 **FAIR USE**
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
